@@ -1,0 +1,6 @@
+Flask==3.0.3           # Web framework
+python-dotenv==1.0.1   # Manage environment variables
+groq==0.31.1           # Groq API client
+serpapi                # For real-time search
+# requests>=2.31.0       # Optional, for extra HTTP calls if needed
+# gunicorn==22.0.0       # Optional, for production WSGI server
