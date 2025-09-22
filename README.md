@@ -46,8 +46,8 @@ You will need API keys for both **Groq** and **SerpAPI**.
 
 ```bash
 # Clone the repository
-git clone [your-repository-url]
-cd [your-repository-folder]
+git clone https://github.com/AshnaXhaikh/AI-Research-Assistant/
+cd https://github.com/AshnaXhaikh/AI-Research-Assistant/
 
 # Install required Python packages
 pip install Flask groq serpapi markdown
